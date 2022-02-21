@@ -19,3 +19,4 @@
 1. Should students assignments be formatted when course is changed? No need, like what you said
 2. Should i include submission date? Yes, if you haven't add
 3. Should i allow student to resubmit assignment? No
+4. Can students access more than 1 course? NONONO
